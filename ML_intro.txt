@@ -1,0 +1,47 @@
+Machine Learning
+ 1.Supervised ML
+ 2.Unsupervised ML
+
+ 1. Supervised ML (labeled data)
+ input >> Output >> Training >>> Model
+ model >> prediction
+     1.Classification
+     2.Regression
+
+ Classification >>> to predict a categorical data
+      categorical data >> yes/no, True/False, 1/0, category
+      eg,:weather prediction, Iris dataset>> predict species of Iris flower, disease diagnosis, market value profit/loss
+ Regression >> to predict a numerical data
+     eg:- predict interest rate based on credit score, predict amount of rain, predict change % in market value
+
+ classification algorithms
+  >> Naive Bayes
+  >> Decision Tree
+  >> Random Forest
+  >> Support Vector Machine (SVM)
+  >> K-Nearest Neighbours
+
+ Regression algorithms
+  >> Simple Linear Regression
+  >> Multiple Linear Regression
+  >> Polynomial Regression
+
+ 2.Unsupervised ML (unlabeled data)
+ Input Datas >>> generate o/p and perform supervised learning
+    Clustering alg
+        >> K-means
+    Clustering mainly used in market segmentation
+     ie, giving offer to customers who buy different types of clothes, jewellery
+
+Machine Learning Steps
+    1. Data Collection
+    2. Data Preparation and Exploration
+    3. Model Creation
+    4. Performance Evaluation
+    5. Model Improvements and deployments
+
+ 1. Data Collection
+    *kaggle,github
+ 2. Data Preparation and Exploration
+    ie, feature extraction/selection >> extracting only required columns
+    Data Exploration >> visualization
